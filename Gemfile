@@ -5,7 +5,7 @@ gem 'sinatra'
 gem 'thin'
 gem 'require_all'
 gem "activerecord"
-gem "sinatra-activerecord"
+gem "sinatra-activerecord",'5.2'
 
 
 
